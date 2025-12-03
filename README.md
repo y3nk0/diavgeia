@@ -1,4 +1,4 @@
-# Diavgeia Open Data
+# A Greek Government Decisions Dataset for Public-Sector Analysis and Insight
 
 This repository hosts a complete, reproducible collection of decisions published on the Greek **Diavgeia (Διαύγεια)** transparency portal.
 It is part of an ongoing open-government and transparency research initiative focused on large-scale document extraction, structuring, and analysis.

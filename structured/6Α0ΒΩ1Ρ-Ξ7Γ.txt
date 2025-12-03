@@ -1,0 +1,60 @@
+{
+    "protocolNumber": "1242",
+    "subject": "Τρόφιμα παιδικών σταθμών. ΑΡ. ΣΥΜΒ. 2/2711/19-01-2021 21SYMV008040249 22-01-2021",
+    "issueDate": 1622505600000,
+    "organizationId": "6265",
+    "signerIds": [
+        "100055861"
+    ],
+    "unitIds": [
+        "81143"
+    ],
+    "decisionTypeId": "Β.2.2",
+    "thematicCategoryIds": [
+        "20"
+    ],
+    "extraFieldValues": {
+        "org": {
+            "afm": "997561152",
+            "afmCountry": "EL",
+            "afmType": "EL",
+            "enterName": false,
+            "name": "Δήμος Ρόδου",
+            "noVATOrg": null
+        },
+        "skipVatReason": null,
+        "sponsor": [
+            {
+                "cpv": "",
+                "expenseAmount": {
+                    "amount": 857.35,
+                    "currency": "EUR"
+                },
+                "kae": "15-6481.0001",
+                "sponsorAFMName": {
+                    "afm": "033972063",
+                    "afmCountry": "EL",
+                    "afmType": "EL",
+                    "enterName": false,
+                    "name": "ΑΛΑΦΑΚΗ ΖΩΗ",
+                    "noVATOrg": null
+                }
+            }
+        ],
+        "relatedEkgrisiDapanis": null,
+        "relatedDecisions": null,
+        "documentType": "ΠΡΑΞΗ"
+    },
+    "privateData": false,
+    "ada": "6Α0ΒΩ1Ρ-Ξ7Γ",
+    "publishTimestamp": 1622533865459,
+    "submissionTimestamp": 1622533865459,
+    "versionId": "4b663517-773f-4141-a0f9-1a18a304fd7b",
+    "status": "PUBLISHED",
+    "url": "https://diavgeia.gov.gr/luminapi/api/decisions/6Α0ΒΩ1Ρ-Ξ7Γ",
+    "documentUrl": "https://diavgeia.gov.gr/doc/6Α0ΒΩ1Ρ-Ξ7Γ",
+    "documentChecksum": null,
+    "attachments": [],
+    "warnings": null,
+    "correctedVersionId": null
+}

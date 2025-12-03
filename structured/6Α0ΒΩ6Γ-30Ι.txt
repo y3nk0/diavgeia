@@ -1,0 +1,55 @@
+{
+    "protocolNumber": "571Α",
+    "subject": "ΧΡΗΜΑΤΙΚΟ ΕΝΤΑΛΜΑ",
+    "issueDate": 1621198800000,
+    "organizationId": "6001",
+    "signerIds": [
+        "132669"
+    ],
+    "unitIds": [
+        "79142"
+    ],
+    "decisionTypeId": "Β.2.2",
+    "thematicCategoryIds": [
+        "20"
+    ],
+    "extraFieldValues": {
+        "org": {
+            "afm": "997615158",
+            "afmCountry": "EL",
+            "name": "ΔΗΜΟΣ ΑΒΔΗΡΩΝ",
+            "afmType": "EL"
+        },
+        "skipVatReason": null,
+        "sponsor": [
+            {
+                "kae": "00.8221",
+                "expenseAmount": {
+                    "amount": 288.24,
+                    "currency": "EUR"
+                },
+                "sponsorAFMName": {
+                    "afm": "090165560",
+                    "name": "ΥΠ. ΟΙΚ. (ΦΟΡΟΣ ΜΙΣΘΩΤΩΝ ΥΠΗΡΕΣΙΩΝ)",
+                    "afmType": "EL"
+                },
+                "cpv": ""
+            }
+        ],
+        "relatedEkgrisiDapanis": null,
+        "relatedDecisions": null,
+        "documentType": "ΠΡΑΞΗ"
+    },
+    "privateData": false,
+    "ada": "6Α0ΒΩ6Γ-30Ι",
+    "publishTimestamp": 1621323995069,
+    "submissionTimestamp": 1621323995069,
+    "versionId": "36430a9d-f6ab-458c-8ae7-d5a120f93c99",
+    "status": "PUBLISHED",
+    "url": "https://diavgeia.gov.gr/luminapi/api/decisions/6Α0ΒΩ6Γ-30Ι",
+    "documentUrl": "https://diavgeia.gov.gr/doc/6Α0ΒΩ6Γ-30Ι",
+    "documentChecksum": null,
+    "attachments": [],
+    "warnings": null,
+    "correctedVersionId": null
+}

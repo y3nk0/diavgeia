@@ -1,0 +1,56 @@
+{
+    "protocolNumber": "ΧΕ74Α/21",
+    "subject": "ΧΕ74Α/21     ΧΠ 9/2020 ΠΡΟΜΗΘΕΙΑ ΦΑΡΜΑΚΩΝ  ΜΔ 995/2020",
+    "issueDate": 1613520000000,
+    "organizationId": "99221872",
+    "signerIds": [
+        "105129"
+    ],
+    "unitIds": [
+        "76129"
+    ],
+    "decisionTypeId": "Β.2.2",
+    "thematicCategoryIds": [
+        "20"
+    ],
+    "extraFieldValues": {
+        "org": {
+            "afm": "999476217",
+            "afmType": "EL",
+            "enterName": false,
+            "name": "ΓΕΝΙΚΟ ΝΟΣΟΚΟΜΕΙΟ ΘΕΣΣΑΛΟΝΙΚΗΣ Γ ΓΕΝΝΗΜΑΤΑΣ Ο ΑΓΙΟΣ ΔΗΜΗΤΡΙΟΣ"
+        },
+        "skipVatReason": null,
+        "sponsor": [
+            {
+                "sponsorAFMName": {
+                    "afm": "094352644",
+                    "afmType": "EL",
+                    "afmCountry": "EL",
+                    "enterName": false,
+                    "name": "ΟΛΒΟΣ ΕΠΙΣΤΗΜΟΝΙΚΗ ΑΝΩΝΥΜΟΣ ΕΜΠΟΡΙΚΗ ΚΑΙ ΒΙΟΜΗΧΑΝΙΚΗ ΕΤΑΙΡΕΙΑ"
+                },
+                "expenseAmount": {
+                    "amount": 185.43,
+                    "currency": "EUR"
+                },
+                "kae": "1312.02"
+            }
+        ],
+        "relatedEkgrisiDapanis": [],
+        "relatedDecisions": [],
+        "documentType": "ΠΡΑΞΗ"
+    },
+    "privateData": false,
+    "ada": "6Α0Γ46904Κ-ΠΑΨ",
+    "publishTimestamp": 1619435438345,
+    "submissionTimestamp": 1619435438345,
+    "versionId": "cfbb1a26-94f3-4730-8d8b-6b6041e77310",
+    "status": "PUBLISHED",
+    "url": "https://diavgeia.gov.gr/luminapi/api/decisions/6Α0Γ46904Κ-ΠΑΨ",
+    "documentUrl": "https://diavgeia.gov.gr/doc/6Α0Γ46904Κ-ΠΑΨ",
+    "documentChecksum": null,
+    "attachments": [],
+    "warnings": null,
+    "correctedVersionId": null
+}

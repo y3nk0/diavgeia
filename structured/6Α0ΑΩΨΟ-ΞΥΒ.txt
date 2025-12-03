@@ -1,0 +1,43 @@
+{
+    "protocolNumber": "13680/6-5-2021",
+    "subject": "Είσπραξη κρατήσεων ΠΡΟΜΗΘΕΥΤΩΝ ΜΗΝΟΣ ΑΠΡΙΛΙΟΥ 2021 ΓΙΑ ΧΕΠ ΠΔΕ/1/2021  Κ/Ξ ΤΕΚ ΘΕΣ.ΝΙΚΗΣ & ΣΙΑ ΕΕ/ΜΗΤΡΟΠΟΥΛΟΣ  (ΧΑΡΤΟΣΗΜΟ ΚΑΙ ΟΓΑ ΧΑΡΤΟΣΗΜΟΥ ΥΠΕΡ Ε.Α.Α.Δ.Σ.)",
+    "issueDate": 1620259200000,
+    "organizationId": "6019",
+    "signerIds": [
+        "100049641"
+    ],
+    "unitIds": [
+        "90269"
+    ],
+    "decisionTypeId": "Β.1.3",
+    "thematicCategoryIds": [
+        "20"
+    ],
+    "extraFieldValues": {
+        "financialYear": 2021,
+        "budgettype": "Τακτικός Προϋπολογισμός",
+        "entryNumber": null,
+        "partialead": false,
+        "recalledExpenseDecision": false,
+        "amountWithVAT": {
+            "amount": 5.01,
+            "currency": "EUR"
+        },
+        "amountWithKae": [],
+        "relatedPartialADA": null,
+        "relatedDecisions": [],
+        "documentType": "ΠΡΑΞΗ"
+    },
+    "privateData": false,
+    "ada": "6Α0ΑΩΨΟ-ΞΥΒ",
+    "publishTimestamp": 1620292215272,
+    "submissionTimestamp": 1620292215272,
+    "versionId": "3b664ca9-73ec-4608-95c1-53a7d880a49c",
+    "status": "PUBLISHED",
+    "url": "https://diavgeia.gov.gr/luminapi/api/decisions/6Α0ΑΩΨΟ-ΞΥΒ",
+    "documentUrl": "https://diavgeia.gov.gr/doc/6Α0ΑΩΨΟ-ΞΥΒ",
+    "documentChecksum": null,
+    "attachments": [],
+    "warnings": null,
+    "correctedVersionId": null
+}

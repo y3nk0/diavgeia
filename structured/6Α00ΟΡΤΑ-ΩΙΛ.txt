@@ -1,0 +1,56 @@
+{
+    "protocolNumber": "81",
+    "subject": "ΠΡΟΜΗΘΕΙΑ ΚΑΥΣΙΜΩΝ ΓΙΑ ΤΑ ΟΧΗΜΑΤΑ ΤΟΥ ΠΡΟΓΡΑΜΜΑΤΟΣ ΒΣΣ ΜΗΝΟΣ ΜΑΙΟΥ 2021",
+    "issueDate": 1622678400000,
+    "organizationId": "50483",
+    "signerIds": [
+        "100041113",
+        "100059312"
+    ],
+    "unitIds": [
+        "11024"
+    ],
+    "decisionTypeId": "Β.2.2",
+    "thematicCategoryIds": [
+        "20"
+    ],
+    "extraFieldValues": {
+        "org": {
+            "afm": "090349925",
+            "afmType": "EL",
+            "enterName": false,
+            "name": "ΚΟΙΝΩΦΕΛΗΣ ΔΗΜΟΤΙΚΗ ΕΠΙΧΕΙΡΗΣΗ ΔΗΜΟΥ ΜΥΚΗΣ"
+        },
+        "skipVatReason": null,
+        "sponsor": [
+            {
+                "sponsorAFMName": {
+                    "afm": "046616807",
+                    "afmType": "EL",
+                    "afmCountry": "EL",
+                    "enterName": false,
+                    "name": "ΜΠΑΝΤΑΚ,,ΣΑΜΠΑΝ,ΣΑΜΠΑΝ"
+                },
+                "expenseAmount": {
+                    "amount": 741.07,
+                    "currency": "EUR"
+                }
+            }
+        ],
+        "relatedEkgrisiDapanis": [],
+        "relatedDecisions": [],
+        "documentType": "ΠΡΑΞΗ"
+    },
+    "privateData": false,
+    "ada": "6Α00ΟΡΤΑ-ΩΙΛ",
+    "publishTimestamp": 1622707872925,
+    "submissionTimestamp": 1622707872925,
+    "versionId": "1ba81554-2ae5-4907-abe9-6d00938eb450",
+    "status": "PUBLISHED",
+    "url": "https://diavgeia.gov.gr/luminapi/api/decisions/6Α00ΟΡΤΑ-ΩΙΛ",
+    "documentUrl": "https://diavgeia.gov.gr/doc/6Α00ΟΡΤΑ-ΩΙΛ",
+    "documentChecksum": null,
+    "attachments": [],
+    "warnings": null,
+    "correctedVersionId": null
+}

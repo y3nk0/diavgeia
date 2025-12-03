@@ -1,0 +1,62 @@
+{
+    "protocolNumber": "5/26-4-2021",
+    "subject": "Εισήγηση σχεδίου Προϋπολογισμού Εσόδων - Εξόδων και Ολοκληρωμένου Πλαισίου Δράσης Αναγκαστικού Συνδέσμου Διαχείρισης Στερεών Αποβλήτων Διαχειριστικής Ενότητας Περιφέρειας Ηπείρου, οικονομικού έτους 2021.",
+    "issueDate": 1619395200000,
+    "organizationId": "100055352",
+    "signerIds": [
+        "100055717"
+    ],
+    "unitIds": [
+        "100057450"
+    ],
+    "decisionTypeId": "Β.1.1",
+    "thematicCategoryIds": [
+        "16"
+    ],
+    "extraFieldValues": {
+        "financialYear": 2021,
+        "budgettype": "Τακτικός Προϋπολογισμός",
+        "budgetkind": "Φορέα",
+        "isBudgetApprovalForOrg": false,
+        "refersToOtherOrgBudget": null,
+        "relatedDecisions": [],
+        "documentType": "ΠΡΑΞΗ"
+    },
+    "privateData": false,
+    "ada": "6Α0Α46Μ340-Υ4Λ",
+    "publishTimestamp": 1619552726299,
+    "submissionTimestamp": 1619552822492,
+    "versionId": "08cb67c9-4596-4979-8412-c1654edfe0e4",
+    "status": "PUBLISHED",
+    "url": "https://diavgeia.gov.gr/luminapi/api/decisions/6Α0Α46Μ340-Υ4Λ",
+    "documentUrl": "https://diavgeia.gov.gr/doc/6Α0Α46Μ340-Υ4Λ",
+    "documentChecksum": null,
+    "attachments": [
+        {
+            "id": "f864a9aa-a32a-4298-b223-45d58adf990e",
+            "description": "Εισηγητική_Έκθεση_Προυπολογισμού_Εξόδων_2021.pdf",
+            "filename": "Εισηγητική_Έκθεση_Προυπολογισμού_Εξόδων_2021.pdf",
+            "mimeType": "application/pdf",
+            "checksum": "c0aa210b4469de567201846a5e15d57769aab250f7967cf43d2abeda67409cbd",
+            "size": 415744
+        },
+        {
+            "id": "7aeacb64-eaa1-490a-92c2-865e6199149c",
+            "description": "Εισηγητική_Έκθεση_Προυπολογισμού_Εσόδων_2021.pdf",
+            "filename": "Εισηγητική_Έκθεση_Προυπολογισμού_Εσόδων_2021.pdf",
+            "mimeType": "application/pdf",
+            "checksum": "89a7fb9891aadb876a75208390322c3f09717ef6fccc6348165f41e1cc217605",
+            "size": 388856
+        },
+        {
+            "id": "bed785f1-6068-44bf-b2a9-e940849725d7",
+            "description": "ΣΤΟΧΟΘΕΣΙΑ_2021.pdf",
+            "filename": "ΣΤΟΧΟΘΕΣΙΑ_2021.pdf",
+            "mimeType": "application/pdf",
+            "checksum": "8db11a11bdcfd902e02c19bbbe3bf9e08661d14426a050c726215aee8da58d91",
+            "size": 685653
+        }
+    ],
+    "warnings": null,
+    "correctedVersionId": null
+}

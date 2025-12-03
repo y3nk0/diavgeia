@@ -1,0 +1,43 @@
+{
+    "protocolNumber": "5159",
+    "subject": "Καθαρισμός - Βελτίωση δεξαμενών και φρεατίων Δ.Ε. Βυτίνας, Δ.Ε Λαγκαδίων και Δ.Ε. Κλείτορος (2021)",
+    "issueDate": 1624838400000,
+    "organizationId": "6068",
+    "signerIds": [
+        "100048800"
+    ],
+    "unitIds": [
+        "82015"
+    ],
+    "decisionTypeId": "Β.1.3",
+    "thematicCategoryIds": [
+        "20"
+    ],
+    "extraFieldValues": {
+        "financialYear": 2021,
+        "budgettype": "Ίδια Έσοδα",
+        "entryNumber": "45",
+        "partialead": false,
+        "recalledExpenseDecision": false,
+        "amountWithVAT": {
+            "amount": 4998.44,
+            "currency": "EUR"
+        },
+        "amountWithKae": [],
+        "relatedPartialADA": null,
+        "relatedDecisions": [],
+        "documentType": "ΠΡΑΞΗ"
+    },
+    "privateData": false,
+    "ada": "6Α0ΓΩ90-Η0Ο",
+    "publishTimestamp": 1624952407650,
+    "submissionTimestamp": 1624952407650,
+    "versionId": "eab04cbb-b1ce-4f20-9642-007783ab8ebd",
+    "status": "PUBLISHED",
+    "url": "https://diavgeia.gov.gr/luminapi/api/decisions/6Α0ΓΩ90-Η0Ο",
+    "documentUrl": "https://diavgeia.gov.gr/doc/6Α0ΓΩ90-Η0Ο",
+    "documentChecksum": null,
+    "attachments": [],
+    "warnings": null,
+    "correctedVersionId": null
+}

@@ -1,0 +1,43 @@
+{
+    "protocolNumber": "8595/Φ904",
+    "subject": "ΑΠΟΦΑΣΗ ΑΝΑΛΗΨΗΣ ΥΠΟΧΡΕΩΣΗΣ",
+    "issueDate": 1618963200000,
+    "organizationId": "99221906",
+    "signerIds": [
+        "100056407"
+    ],
+    "unitIds": [
+        "75130"
+    ],
+    "decisionTypeId": "Β.1.3",
+    "thematicCategoryIds": [
+        "24"
+    ],
+    "extraFieldValues": {
+        "financialYear": 2021,
+        "budgettype": "Τακτικός Προϋπολογισμός",
+        "entryNumber": "359",
+        "partialead": false,
+        "recalledExpenseDecision": false,
+        "amountWithVAT": {
+            "amount": 38932.92,
+            "currency": "EUR"
+        },
+        "amountWithKae": [],
+        "relatedPartialADA": null,
+        "relatedDecisions": [],
+        "documentType": "ΠΡΑΞΗ"
+    },
+    "privateData": false,
+    "ada": "6Α0Β4690ΒΚ-2ΥΞ",
+    "publishTimestamp": 1619004282055,
+    "submissionTimestamp": 1619004282055,
+    "versionId": "3fbeb784-243a-4835-b51e-1fb175581190",
+    "status": "PUBLISHED",
+    "url": "https://diavgeia.gov.gr/luminapi/api/decisions/6Α0Β4690ΒΚ-2ΥΞ",
+    "documentUrl": "https://diavgeia.gov.gr/doc/6Α0Β4690ΒΚ-2ΥΞ",
+    "documentChecksum": null,
+    "attachments": [],
+    "warnings": null,
+    "correctedVersionId": null
+}

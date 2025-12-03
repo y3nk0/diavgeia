@@ -1,0 +1,42 @@
+{
+    "protocolNumber": "2021/10442",
+    "subject": "Επέκταση δικτύου φωτισμού Δήμου Παιονίας (ΔΚ ΡΥΖΙΩΝ , Α. ΘΕΟΛΟΓΟΥ, ΧΑΤΖΗΑΓΓΕΛΙΔΟΥ, ΝΑΛΜΠΑΝΤΙΔΗ ΓΕΩΡΓΙΟΥ)",
+    "issueDate": 1624924800000,
+    "organizationId": "6231",
+    "signerIds": [
+        "100049130"
+    ],
+    "unitIds": [
+        "81815"
+    ],
+    "decisionTypeId": "Β.1.3",
+    "thematicCategoryIds": [
+        "16"
+    ],
+    "extraFieldValues": {
+        "financialYear": 2021,
+        "budgettype": "Τακτικός Προϋπολογισμός",
+        "entryNumber": null,
+        "partialead": false,
+        "recalledExpenseDecision": false,
+        "amountWithVAT": {
+            "currency": "EUR"
+        },
+        "amountWithKae": [],
+        "relatedPartialADA": null,
+        "relatedDecisions": [],
+        "documentType": "ΠΡΑΞΗ"
+    },
+    "privateData": false,
+    "ada": "6Α0ΒΩΞΡ-Ν7Χ",
+    "publishTimestamp": 1624967213171,
+    "submissionTimestamp": 1624967213171,
+    "versionId": "ccfd5cb7-65e8-4fa1-b4dd-7f8e6ff37f77",
+    "status": "PUBLISHED",
+    "url": "https://diavgeia.gov.gr/luminapi/api/decisions/6Α0ΒΩΞΡ-Ν7Χ",
+    "documentUrl": "",
+    "documentChecksum": null,
+    "attachments": [],
+    "warnings": null,
+    "correctedVersionId": null
+}

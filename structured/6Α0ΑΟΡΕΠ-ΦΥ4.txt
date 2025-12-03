@@ -1,0 +1,60 @@
+{
+    "protocolNumber": "ΧΕΑ 737/2021",
+    "subject": "ΧΡΗΜΑΤΙΚΟ ΕΝΤΑΛΜΑ ΠΛΗΡΩΜΗΣ ΔΑΠΑΝΗΣ ΓΙΑ ΤΗΝ ΠΡΟΜΗΘΕΙΑ ΤΟΝΕΡ ΓΙΑ ΚΕΝΤΡΑ ΥΓΕΙΑΣ ΑΡΜΟΔΙΟΤΗΤΑΣ ΤΗΣ 3ΗΣ Υ.ΠΕ., ΧΕΑ 737/2021",
+    "issueDate": 1618876800000,
+    "organizationId": "50048",
+    "signerIds": [
+        "100059718"
+    ],
+    "unitIds": [
+        "100059714"
+    ],
+    "decisionTypeId": "Β.2.2",
+    "thematicCategoryIds": [
+        "20"
+    ],
+    "extraFieldValues": {
+        "org": {
+            "afm": "999122114",
+            "afmType": "EL",
+            "enterName": false,
+            "name": "ΔΙΟΙΚΗΣΗ 3ΗΣ ΥΓΕΙΟΝΟΜΙΚΗΣ ΠΕΡΙΦΕΡΕΙΑΣ ΜΑΚΕΔΟΝΙΑΣ"
+        },
+        "skipVatReason": null,
+        "sponsor": [
+            {
+                "sponsorAFMName": {
+                    "afm": "035384550",
+                    "afmType": "EL",
+                    "afmCountry": "EL",
+                    "enterName": false,
+                    "name": "ΕΥΘΥΜΙΑΔΗΣ,,ΔΗΜΗΤΡΙΟΣ,ΧΑΡΑΛΑΜΠΟΣ"
+                },
+                "expenseAmount": {
+                    "amount": 637.14,
+                    "currency": "EUR"
+                },
+                "kae": "1281.02"
+            }
+        ],
+        "relatedEkgrisiDapanis": [
+            {
+                "textRelatedADA": "ΩΝ7ΜΟΡΕΠ-ΠΙΕ"
+            }
+        ],
+        "relatedDecisions": [],
+        "documentType": "ΠΡΑΞΗ"
+    },
+    "privateData": false,
+    "ada": "6Α0ΑΟΡΕΠ-ΦΥ4",
+    "publishTimestamp": 1618982944649,
+    "submissionTimestamp": 1618982944649,
+    "versionId": "1a266214-ae3a-479e-9d19-b46bdb4d34c9",
+    "status": "PUBLISHED",
+    "url": "https://diavgeia.gov.gr/luminapi/api/decisions/6Α0ΑΟΡΕΠ-ΦΥ4",
+    "documentUrl": "https://diavgeia.gov.gr/doc/6Α0ΑΟΡΕΠ-ΦΥ4",
+    "documentChecksum": null,
+    "attachments": [],
+    "warnings": null,
+    "correctedVersionId": null
+}

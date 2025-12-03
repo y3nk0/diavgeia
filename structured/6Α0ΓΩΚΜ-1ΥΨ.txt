@@ -1,0 +1,55 @@
+{
+    "protocolNumber": "137",
+    "subject": "ΠΛΗΡΩΜΕΣ ΥΠΟΧΡΕΩΣΕΩΝ ΛΕΙΤΟΥΡΓΙΚΩΝ ΔΑΠΑΝΩΝ (ΠΟΕ)",
+    "issueDate": 1619568000000,
+    "organizationId": "6217",
+    "signerIds": [
+        "100045680"
+    ],
+    "unitIds": [
+        "82452"
+    ],
+    "decisionTypeId": "Β.2.2",
+    "thematicCategoryIds": [
+        "20"
+    ],
+    "extraFieldValues": {
+        "org": {
+            "afm": "099269211",
+            "afmType": "EL",
+            "enterName": false,
+            "name": "ΔΗΜΟΣ ΝΙΣΥΡΟΥ"
+        },
+        "skipVatReason": null,
+        "sponsor": [
+            {
+                "sponsorAFMName": {
+                    "afm": "099721848",
+                    "afmType": "EL",
+                    "afmCountry": "EL",
+                    "enterName": false,
+                    "name": "ΕΛΛΗΝΙΚΟ ΔΙΚΤΥΟ ΜΙΚΡΩΝ ΝΗΣΙΩΝ HELLENIC SMALL ISLANDS NETWORK"
+                },
+                "expenseAmount": {
+                    "amount": 1500.0,
+                    "currency": "EUR"
+                }
+            }
+        ],
+        "relatedEkgrisiDapanis": [],
+        "relatedDecisions": [],
+        "documentType": "ΠΡΑΞΗ"
+    },
+    "privateData": false,
+    "ada": "6Α0ΓΩΚΜ-1ΥΨ",
+    "publishTimestamp": 1619596286485,
+    "submissionTimestamp": 1619596286485,
+    "versionId": "6cc3fdfb-154a-4038-9d7d-9ecc3804c7a6",
+    "status": "PUBLISHED",
+    "url": "https://diavgeia.gov.gr/luminapi/api/decisions/6Α0ΓΩΚΜ-1ΥΨ",
+    "documentUrl": "https://diavgeia.gov.gr/doc/6Α0ΓΩΚΜ-1ΥΨ",
+    "documentChecksum": null,
+    "attachments": [],
+    "warnings": null,
+    "correctedVersionId": null
+}

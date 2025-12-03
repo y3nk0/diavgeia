@@ -1,0 +1,51 @@
+{
+    "protocolNumber": "8302/8.6.2021",
+    "subject": "ΧΡΗΜΑΤΙΚΟ ΕΝΤΑΛΜΑ ΠΛΗΡΩΜΗΣ",
+    "issueDate": 1622678400000,
+    "organizationId": "100012982",
+    "signerIds": [
+        "100013387"
+    ],
+    "unitIds": [
+        "95429"
+    ],
+    "decisionTypeId": "Β.2.1",
+    "thematicCategoryIds": [
+        "20"
+    ],
+    "extraFieldValues": {
+        "org": {
+            "afm": "997476074",
+            "afmType": "EL",
+            "enterName": false,
+            "name": "ΕΛΛΗΝΙΚΗ  ΡΑΔΙΟΦΩΝΙΑ   ΤΗΛΕΟΡΑΣΗ  ΑΝΩΝΥΜΗ  ΕΤΑΙΡΕΙΑ   ΕΡΤ  ΑΕ"
+        },
+        "sponsor": [
+            {
+                "sponsorAFMName": {
+                    "afm": ""
+                },
+                "expenseAmount": {
+                    "amount": 4000.0,
+                    "currency": "EUR"
+                },
+                "cpv": "64228100-1"
+            }
+        ],
+        "relatedAnalipsiYpoxreosis": [],
+        "relatedDecisions": [],
+        "documentType": "ΠΡΑΞΗ"
+    },
+    "privateData": false,
+    "ada": "6Α0Β465Θ1Ε-7ΚΠ",
+    "publishTimestamp": 1623141913152,
+    "submissionTimestamp": 1623141913152,
+    "versionId": "9f9ef322-2226-4544-8cc4-f2f429bd6cda",
+    "status": "PUBLISHED",
+    "url": "https://diavgeia.gov.gr/luminapi/api/decisions/6Α0Β465Θ1Ε-7ΚΠ",
+    "documentUrl": "https://diavgeia.gov.gr/doc/6Α0Β465Θ1Ε-7ΚΠ",
+    "documentChecksum": null,
+    "attachments": [],
+    "warnings": null,
+    "correctedVersionId": null
+}

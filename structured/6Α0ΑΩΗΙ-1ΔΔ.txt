@@ -1,0 +1,52 @@
+{
+    "protocolNumber": "631",
+    "subject": "Αποζημίωση υπερωριακής εργασίας και για εξαιρέσιμες ημέρες και νυκτερινές ώρες και λοιπές πρόσθετες αμοιβές",
+    "issueDate": 1620345600000,
+    "organizationId": "6309",
+    "signerIds": [
+        "100053700"
+    ],
+    "unitIds": [
+        "87159"
+    ],
+    "decisionTypeId": "Β.1.3",
+    "thematicCategoryIds": [
+        "20",
+        "44"
+    ],
+    "extraFieldValues": {
+        "financialYear": 2021,
+        "budgettype": "Τακτικός Προϋπολογισμός",
+        "entryNumber": "Α/125",
+        "partialead": false,
+        "recalledExpenseDecision": false,
+        "amountWithVAT": {
+            "amount": 370.0,
+            "currency": "EUR"
+        },
+        "amountWithKae": [
+            {
+                "amountWithVAT": 370.0,
+                "kae": "15-6012",
+                "kaeBudgetRemainder": 3800.0,
+                "kaeCreditRemainder": 2814.0,
+                "sponsorAFMName": {}
+            }
+        ],
+        "relatedPartialADA": null,
+        "relatedDecisions": [],
+        "documentType": "ΠΡΑΞΗ"
+    },
+    "privateData": false,
+    "ada": "6Α0ΑΩΗΙ-1ΔΔ",
+    "publishTimestamp": 1620371805005,
+    "submissionTimestamp": 1620371805005,
+    "versionId": "f7a2003d-1668-4619-9804-d93e45c68502",
+    "status": "PUBLISHED",
+    "url": "https://diavgeia.gov.gr/luminapi/api/decisions/6Α0ΑΩΗΙ-1ΔΔ",
+    "documentUrl": "https://diavgeia.gov.gr/doc/6Α0ΑΩΗΙ-1ΔΔ",
+    "documentChecksum": null,
+    "attachments": [],
+    "warnings": null,
+    "correctedVersionId": null
+}

@@ -1,0 +1,55 @@
+{
+    "protocolNumber": "340",
+    "subject": "ΕΞΩΦΛΗΣΗ ΤΠΥ 16",
+    "issueDate": 1620259200000,
+    "organizationId": "51102",
+    "signerIds": [
+        "115307"
+    ],
+    "unitIds": [
+        "84090"
+    ],
+    "decisionTypeId": "Β.2.2",
+    "thematicCategoryIds": [
+        "20"
+    ],
+    "extraFieldValues": {
+        "org": {
+            "afm": "997877933",
+            "afmType": "EL",
+            "enterName": false,
+            "name": "ΔΗΜΟΤΙΚΗ ΕΠΙΧΕΙΡΗΣΗ ΥΔΡΕΥΣΗΣ ΑΠΟΧΕΤΕΥΣΗΣ ΔΗΜΟΥ ΘΗΡΑΣ ΝΟΜΟΥ ΚΥΚΛΑΔΩΝ"
+        },
+        "skipVatReason": null,
+        "sponsor": [
+            {
+                "sponsorAFMName": {
+                    "afm": "130373586",
+                    "afmType": "EL",
+                    "afmCountry": "EL",
+                    "enterName": false,
+                    "name": "ΣΙΓΑΛΑ,,ΠΑΡΑΣΚΕΥΟΥΛΑ,ΙΑΚΩΒΟΣ"
+                },
+                "expenseAmount": {
+                    "amount": 1536.17,
+                    "currency": "EUR"
+                }
+            }
+        ],
+        "relatedEkgrisiDapanis": [],
+        "relatedDecisions": [],
+        "documentType": "ΠΡΑΞΗ"
+    },
+    "privateData": false,
+    "ada": "6Α0ΓΟΕΨΠ-ΣΓΘ",
+    "publishTimestamp": 1620376474892,
+    "submissionTimestamp": 1620376474892,
+    "versionId": "04bd5be2-b68e-447b-b2cc-3ae6a345060a",
+    "status": "PUBLISHED",
+    "url": "https://diavgeia.gov.gr/luminapi/api/decisions/6Α0ΓΟΕΨΠ-ΣΓΘ",
+    "documentUrl": "https://diavgeia.gov.gr/doc/6Α0ΓΟΕΨΠ-ΣΓΘ",
+    "documentChecksum": null,
+    "attachments": [],
+    "warnings": null,
+    "correctedVersionId": null
+}

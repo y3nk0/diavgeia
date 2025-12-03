@@ -1,0 +1,47 @@
+{
+    "protocolNumber": "20085/2021",
+    "subject": "Aπόφαση ανάληψης υποχρέωσης για το έργο 68146600  #7616",
+    "issueDate": 1619654400000,
+    "organizationId": "99203026",
+    "signerIds": [
+        "100055821"
+    ],
+    "unitIds": [
+        "73955"
+    ],
+    "decisionTypeId": "Β.1.3",
+    "thematicCategoryIds": [
+        "64"
+    ],
+    "extraFieldValues": {
+        "financialYear": 2021,
+        "budgettype": "Ίδια Έσοδα",
+        "entryNumber": null,
+        "partialead": false,
+        "recalledExpenseDecision": false,
+        "amountWithVAT": {
+            "amount": 130000.0,
+            "currency": "EUR"
+        },
+        "amountWithKae": null,
+        "relatedPartialADA": null,
+        "relatedDecisions": [
+            {
+                "relatedDecisionsADA": "635246ΨΖΣ4-ΔΗΤ"
+            }
+        ],
+        "documentType": "ΠΡΑΞΗ"
+    },
+    "privateData": true,
+    "ada": "6Α0Β46ΨΖΣ4-11Χ",
+    "publishTimestamp": 1619704653677,
+    "submissionTimestamp": 1619704653677,
+    "versionId": "5de7bfe9-19f9-4f41-b6ed-90bf1d225bc8",
+    "status": "PUBLISHED",
+    "url": "https://diavgeia.gov.gr/luminapi/api/decisions/6Α0Β46ΨΖΣ4-11Χ",
+    "documentUrl": "https://diavgeia.gov.gr/doc/6Α0Β46ΨΖΣ4-11Χ",
+    "documentChecksum": null,
+    "attachments": [],
+    "warnings": null,
+    "correctedVersionId": null
+}

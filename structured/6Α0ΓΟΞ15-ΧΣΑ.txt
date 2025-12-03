@@ -1,0 +1,55 @@
+{
+    "protocolNumber": "5/2021",
+    "subject": "ΧΕΠ 5/2021 ΓΙΑ ΑΜΟΙΒΗ ΛΟΓΙΣΤΗ ΑΣΤΑΚΟΥ - ΔΕΚΑΜΒΡΙΟΣ 2020",
+    "issueDate": 1620172800000,
+    "organizationId": "54836",
+    "signerIds": [
+        "100053140"
+    ],
+    "unitIds": [
+        "100005545"
+    ],
+    "decisionTypeId": "Β.2.2",
+    "thematicCategoryIds": [
+        "20"
+    ],
+    "extraFieldValues": {
+        "org": {
+            "afm": "800076278",
+            "afmType": "EL",
+            "enterName": false,
+            "name": "ΚΟΙΝΩΦΕΛΗΣ ΕΠΙΧΕΙΡΗΣΗ ΔΗΜΟΥ ΞΗΡΟΜΕΡΟΥ"
+        },
+        "skipVatReason": null,
+        "sponsor": [
+            {
+                "sponsorAFMName": {
+                    "afm": "120565380",
+                    "afmType": "EL",
+                    "afmCountry": "EL",
+                    "enterName": false,
+                    "name": "ΣΥΓΓΟΥΝΗΣ,,ΓΕΩΡΓΙΟΣ,ΣΠΥΡΙΔΩΝ"
+                },
+                "expenseAmount": {
+                    "amount": 1443.48,
+                    "currency": "EUR"
+                }
+            }
+        ],
+        "relatedEkgrisiDapanis": [],
+        "relatedDecisions": [],
+        "documentType": "ΠΡΑΞΗ"
+    },
+    "privateData": false,
+    "ada": "6Α0ΓΟΞ15-ΧΣΑ",
+    "publishTimestamp": 1620202031727,
+    "submissionTimestamp": 1620202031727,
+    "versionId": "eb45d5cf-6ef8-4684-8391-a8983a280c72",
+    "status": "PUBLISHED",
+    "url": "https://diavgeia.gov.gr/luminapi/api/decisions/6Α0ΓΟΞ15-ΧΣΑ",
+    "documentUrl": "",
+    "documentChecksum": null,
+    "attachments": [],
+    "warnings": null,
+    "correctedVersionId": null
+}

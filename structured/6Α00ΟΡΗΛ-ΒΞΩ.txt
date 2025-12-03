@@ -1,0 +1,36 @@
+{
+    "protocolNumber": "ΔΑ/12835/15-04-2021",
+    "subject": "Τροποποίηση αδειών Κέντρων Ξένων Γλωσσών - Φροντιστηρίων",
+    "issueDate": 1618790400000,
+    "organizationId": "50229",
+    "signerIds": [
+        "100048850"
+    ],
+    "unitIds": [
+        "77414"
+    ],
+    "decisionTypeId": "Α.2",
+    "thematicCategoryIds": [
+        "10004"
+    ],
+    "extraFieldValues": {
+        "fek": {},
+        "kanonistikipraxiaa": null,
+        "kanonistikipraxitype": null,
+        "co_competent": null,
+        "relatedDecisions": [],
+        "documentType": "ΠΡΑΞΗ"
+    },
+    "privateData": false,
+    "ada": "6Α00ΟΡΗΛ-ΒΞΩ",
+    "publishTimestamp": 1618814649686,
+    "submissionTimestamp": 1618814649686,
+    "versionId": "d7f188ab-fee3-4a28-b821-3e9c7dbbe60b",
+    "status": "PUBLISHED",
+    "url": "https://diavgeia.gov.gr/luminapi/api/decisions/6Α00ΟΡΗΛ-ΒΞΩ",
+    "documentUrl": "https://diavgeia.gov.gr/doc/6Α00ΟΡΗΛ-ΒΞΩ",
+    "documentChecksum": null,
+    "attachments": [],
+    "warnings": null,
+    "correctedVersionId": null
+}

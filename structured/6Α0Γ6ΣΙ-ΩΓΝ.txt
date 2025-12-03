@@ -1,0 +1,48 @@
+{
+    "protocolNumber": "119/18.5.2021",
+    "subject": "ΣΥΜΒΑΣΗ ΑΝΑΘΕΣΗΣ ΜΙΣΘΩΣΗΣ ΕΡΓΟΥ",
+    "issueDate": 1621296000000,
+    "organizationId": "7839",
+    "signerIds": [
+        "104076"
+    ],
+    "unitIds": [
+        "100048165"
+    ],
+    "decisionTypeId": "Γ.3.4",
+    "thematicCategoryIds": [
+        "44"
+    ],
+    "extraFieldValues": {
+        "contractType": "Σύμβαση Έργου",
+        "numberOfPeople": 1,
+        "financedProject": false,
+        "person": [
+            {
+                "afm": "132407530",
+                "name": "ΚΑΝΑΚΗΣ,,ΓΕΡΑΣΙΜΟΣ ΔΙΟΓΕΝΗΣ,ΓΕΩΡΓΙΟΣ",
+                "enterName": false,
+                "afmType": "EL"
+            }
+        ],
+        "contractAmount": {
+            "amount": 0.01,
+            "currency": "EUR"
+        },
+        "duration": "18.5.2021 ΕΩΣ 31.8.2021",
+        "relatedDecisions": [],
+        "documentType": "ΠΡΑΞΗ"
+    },
+    "privateData": true,
+    "ada": "6Α0Γ6ΣΙ-ΩΓΝ",
+    "publishTimestamp": 1621341160178,
+    "submissionTimestamp": 1621341160178,
+    "versionId": "06d604a5-74ae-4af0-88ed-d9af6b123552",
+    "status": "PUBLISHED",
+    "url": "https://diavgeia.gov.gr/luminapi/api/decisions/6Α0Γ6ΣΙ-ΩΓΝ",
+    "documentUrl": "https://diavgeia.gov.gr/doc/6Α0Γ6ΣΙ-ΩΓΝ",
+    "documentChecksum": null,
+    "attachments": [],
+    "warnings": null,
+    "correctedVersionId": null
+}

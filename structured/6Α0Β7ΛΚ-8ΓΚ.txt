@@ -1,0 +1,55 @@
+{
+    "protocolNumber": "0910Α",
+    "subject": " ΠΛΥΣΙΜΟ & ΓΡΑΣΑΡΙΣΜΑ ΓΙΑ ΤΟ ΚΗΟ 7367 - Δ/ΝΣΗ ΤΕΧΝΙΚΩΝ ΕΡΓΩΝ",
+    "issueDate": 1623272400000,
+    "organizationId": "5010",
+    "signerIds": [
+        "111266"
+    ],
+    "unitIds": [
+        "80822"
+    ],
+    "decisionTypeId": "Β.2.2",
+    "thematicCategoryIds": [
+        "20"
+    ],
+    "extraFieldValues": {
+        "org": {
+            "afm": "997579388",
+            "afmCountry": "EL",
+            "name": "ΠΕΡΙΦΕΡΕΙΑ ΚΡΗΤΗΣ",
+            "afmType": "EL"
+        },
+        "skipVatReason": null,
+        "sponsor": [
+            {
+                "kae": "01.072-00.0861.01",
+                "expenseAmount": {
+                    "amount": 111.6,
+                    "currency": "EUR"
+                },
+                "sponsorAFMName": {
+                    "afm": "999678050",
+                    "name": "ΚΟΥΜΟΥΛΑΣ Α.Ε",
+                    "afmType": "EL"
+                },
+                "cpv": ""
+            }
+        ],
+        "relatedEkgrisiDapanis": null,
+        "relatedDecisions": null,
+        "documentType": "ΠΡΑΞΗ"
+    },
+    "privateData": false,
+    "ada": "6Α0Β7ΛΚ-8ΓΚ",
+    "publishTimestamp": 1623322020758,
+    "submissionTimestamp": 1623322020758,
+    "versionId": "3dfaebbe-aaa0-434a-8607-5c881347d1d3",
+    "status": "PUBLISHED",
+    "url": "https://diavgeia.gov.gr/luminapi/api/decisions/6Α0Β7ΛΚ-8ΓΚ",
+    "documentUrl": "",
+    "documentChecksum": null,
+    "attachments": [],
+    "warnings": null,
+    "correctedVersionId": null
+}

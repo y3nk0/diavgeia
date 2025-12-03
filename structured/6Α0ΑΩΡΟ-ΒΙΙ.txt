@@ -1,0 +1,54 @@
+{
+    "protocolNumber": "0546Π",
+    "subject": "ΕΝΤΑΛΜΑ ΠΛΗΡΩΜΗΣ",
+    "issueDate": 1623790800000,
+    "organizationId": "6087",
+    "signerIds": [
+        "100048853"
+    ],
+    "unitIds": [
+        "90966"
+    ],
+    "decisionTypeId": "Β.2.1",
+    "thematicCategoryIds": [
+        "20"
+    ],
+    "extraFieldValues": {
+        "org": {
+            "afm": "999254983",
+            "afmCountry": "EL",
+            "name": "ΔΗΜΟΣ ΕΛΑΣΣΟΝΑΣ",
+            "afmType": "EL"
+        },
+        "sponsor": [
+            {
+                "kae": "30.6262.27",
+                "expenseAmount": {
+                    "amount": 2480.0,
+                    "currency": "EUR"
+                },
+                "sponsorAFMName": {
+                    "afm": "134970650",
+                    "name": "ΜΙΧΑΛΕΣ ΚΩΝ/ΝΟΣ",
+                    "afmType": "EL"
+                },
+                "cpv": ""
+            }
+        ],
+        "relatedAnalipsiYpoxreosis": null,
+        "relatedDecisions": null,
+        "documentType": "ΠΡΑΞΗ"
+    },
+    "privateData": false,
+    "ada": "6Α0ΑΩΡΟ-ΒΙΙ",
+    "publishTimestamp": 1623827816044,
+    "submissionTimestamp": 1623827816044,
+    "versionId": "7f8d151a-9e18-4054-b79a-0fe2d8b9da3d",
+    "status": "PUBLISHED",
+    "url": "https://diavgeia.gov.gr/luminapi/api/decisions/6Α0ΑΩΡΟ-ΒΙΙ",
+    "documentUrl": "https://diavgeia.gov.gr/doc/6Α0ΑΩΡΟ-ΒΙΙ",
+    "documentChecksum": null,
+    "attachments": [],
+    "warnings": null,
+    "correctedVersionId": null
+}

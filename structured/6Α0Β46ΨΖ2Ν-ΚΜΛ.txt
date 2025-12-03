@@ -1,0 +1,54 @@
+{
+    "protocolNumber": "014824/2021",
+    "subject": "Δαπάνη βάσει Αρ. Πρωτ. Έγκρισης 014824/2021",
+    "issueDate": 1618876800000,
+    "organizationId": "99203020",
+    "signerIds": [
+        "100043788"
+    ],
+    "unitIds": [
+        "74020"
+    ],
+    "decisionTypeId": "Β.2.1",
+    "thematicCategoryIds": [
+        "64"
+    ],
+    "extraFieldValues": {
+        "org": {
+            "afm": "090145420",
+            "afmType": "EL",
+            "afmCountry": "EL",
+            "name": "ΕΙΔΙΚΟΣ ΛΟΓΑΡΙΑΣΜΟΣ ΚΟΝΔΥΛΙΩΝ ΕΡΕΥΝΑΣ"
+        },
+        "sponsor": [
+            {
+                "sponsorAFMName": {
+                    "afm": "164064988",
+                    "afmType": "EL",
+                    "afmCountry": "EL",
+                    "name": "ΚΑΝΑΚΗ ΑΓΓΕΛΙΚΗ"
+                },
+                "expenseAmount": {
+                    "amount": 1000.0,
+                    "currency": "EUR"
+                },
+                "cpv": "73110000-6"
+            }
+        ],
+        "relatedAnalipsiYpoxreosis": null,
+        "relatedDecisions": null,
+        "documentType": "ΠΡΑΞΗ"
+    },
+    "privateData": false,
+    "ada": "6Α0Β46ΨΖ2Ν-ΚΜΛ",
+    "publishTimestamp": 1618988742951,
+    "submissionTimestamp": 1618988742951,
+    "versionId": "94fb5561-2aa6-42e2-90f3-00401a882c82",
+    "status": "PUBLISHED",
+    "url": "https://diavgeia.gov.gr/luminapi/api/decisions/6Α0Β46ΨΖ2Ν-ΚΜΛ",
+    "documentUrl": "",
+    "documentChecksum": null,
+    "attachments": [],
+    "warnings": null,
+    "correctedVersionId": null
+}

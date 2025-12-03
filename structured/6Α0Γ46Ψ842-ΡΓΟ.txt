@@ -1,0 +1,35 @@
+{
+    "protocolNumber": "255914",
+    "subject": "Προέγκριση Οικοδομικής Άδειας: ΠΡΟΣΘΗΚΗ Η/Ζ ΣΤΟΝ ΑΚΑΛΥΠΤΟ ΧΩΡΟ",
+    "issueDate": 1624861042000,
+    "organizationId": "99201077",
+    "signerIds": [
+        "100014466"
+    ],
+    "unitIds": [
+        "77540"
+    ],
+    "decisionTypeId": "2.4.6.1",
+    "thematicCategoryIds": [
+        "52"
+    ],
+    "extraFieldValues": {
+        "xorotaxikipraxitype": "Χορήγηση – αναστολή – τροποποίηση οικοδομικών αδειών",
+        "municipality": "2204",
+        "co_competent": null,
+        "relatedDecisions": null,
+        "documentType": "ΠΡΑΞΗ"
+    },
+    "privateData": false,
+    "ada": "6Α0Γ46Ψ842-ΡΓΟ",
+    "publishTimestamp": 1624862845017,
+    "submissionTimestamp": 1624862845017,
+    "versionId": "e0cd3c78-6ea0-422c-8fd1-434c67fa4d1e",
+    "status": "PUBLISHED",
+    "url": "https://diavgeia.gov.gr/luminapi/api/decisions/6Α0Γ46Ψ842-ΡΓΟ",
+    "documentUrl": "https://diavgeia.gov.gr/doc/6Α0Γ46Ψ842-ΡΓΟ",
+    "documentChecksum": null,
+    "attachments": [],
+    "warnings": null,
+    "correctedVersionId": null
+}

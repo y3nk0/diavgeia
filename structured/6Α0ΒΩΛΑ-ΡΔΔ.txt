@@ -1,0 +1,41 @@
+{
+    "protocolNumber": "820",
+    "subject": "ΑΝΑΛΥΣΕΙΣ ΝΕΡΟΥ (ΔΟΚ.ΠΑΡΑΚΟΛ.15/1,19/2,18/3)",
+    "issueDate": 1623628800000,
+    "organizationId": "6181",
+    "signerIds": [
+        "100060398"
+    ],
+    "unitIds": [
+        "100009618"
+    ],
+    "decisionTypeId": "Β.2.2",
+    "thematicCategoryIds": [
+        "20"
+    ],
+    "extraFieldValues": {
+        "org": {
+            "afm": "997763886",
+            "afmType": "EL",
+            "enterName": true,
+            "name": "ΔΗΜΟΣ ΜΑΝΔΡΑΣ-ΕΙΔΥΛΛΙΑΣ"
+        },
+        "skipVatReason": "SKIP_VAT_REASON_1",
+        "sponsor": null,
+        "relatedEkgrisiDapanis": null,
+        "relatedDecisions": null,
+        "documentType": "ΠΡΑΞΗ"
+    },
+    "privateData": false,
+    "ada": "6Α0ΒΩΛΑ-ΡΔΔ",
+    "publishTimestamp": 1623662892735,
+    "submissionTimestamp": 1623662892735,
+    "versionId": "b1d69de3-126e-4a21-bf9f-53b2ba277f96",
+    "status": "PUBLISHED",
+    "url": "https://diavgeia.gov.gr/luminapi/api/decisions/6Α0ΒΩΛΑ-ΡΔΔ",
+    "documentUrl": "https://diavgeia.gov.gr/doc/6Α0ΒΩΛΑ-ΡΔΔ",
+    "documentChecksum": null,
+    "attachments": [],
+    "warnings": null,
+    "correctedVersionId": null
+}

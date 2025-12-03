@@ -1,0 +1,36 @@
+{
+    "protocolNumber": "163",
+    "subject": "Μείωση μισθωμάτων επαγγελματικών μισθώσεων των μηνών: \nΙανουαρίου-Φεβρουαρίου-Μαρτίου έτους 2021",
+    "issueDate": 1621641600000,
+    "organizationId": "6259",
+    "signerIds": [
+        "100048704"
+    ],
+    "unitIds": [
+        "84326"
+    ],
+    "decisionTypeId": "Α.2",
+    "thematicCategoryIds": [
+        "16"
+    ],
+    "extraFieldValues": {
+        "fek": {},
+        "kanonistikipraxiaa": null,
+        "kanonistikipraxitype": null,
+        "co_competent": null,
+        "relatedDecisions": [],
+        "documentType": "ΠΡΑΞΗ"
+    },
+    "privateData": false,
+    "ada": "6Α00Ω1Β-ΖΙΔ",
+    "publishTimestamp": 1621929889151,
+    "submissionTimestamp": 1621929889151,
+    "versionId": "ba35155d-729f-4585-8373-b7b6af054047",
+    "status": "PUBLISHED",
+    "url": "https://diavgeia.gov.gr/luminapi/api/decisions/6Α00Ω1Β-ΖΙΔ",
+    "documentUrl": "",
+    "documentChecksum": null,
+    "attachments": [],
+    "warnings": null,
+    "correctedVersionId": null
+}

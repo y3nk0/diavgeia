@@ -1,0 +1,35 @@
+{
+    "protocolNumber": "247269",
+    "subject": "Έγκριση Εργασιών Δόμησης Μικρής Κλίμακας: ΕΡΓΑΣΙΕΣ ΕΣΩΤΕΡΙΚΩΝ ΔΙΑΡΡΥΘΜΙΣΕΩΝ ΠΟΥ ΔΕΝ ΘΙΓΟΥΝ ΤΟΝ Φ.Ο. ΤΟΥ ΚΤΙΡΙΟΥ ΣΤΟ ΥΠ ΑΡΙΘΜΟΝ (2) ΔΙΑΜΕΡΙΣΜΑ ΙΣΟΓΕΙΟΥ",
+    "issueDate": 1623168606000,
+    "organizationId": "99201077",
+    "signerIds": [
+        "100014466"
+    ],
+    "unitIds": [
+        "77540"
+    ],
+    "decisionTypeId": "2.4.6.1",
+    "thematicCategoryIds": [
+        "52"
+    ],
+    "extraFieldValues": {
+        "xorotaxikipraxitype": "Χορήγηση – αναστολή – τροποποίηση οικοδομικών αδειών",
+        "municipality": "4501",
+        "co_competent": null,
+        "relatedDecisions": null,
+        "documentType": "ΠΡΑΞΗ"
+    },
+    "privateData": false,
+    "ada": "6Α0Γ46Ψ842-Γ6Μ",
+    "publishTimestamp": 1623219548478,
+    "submissionTimestamp": 1623219548478,
+    "versionId": "805eed50-c723-4e29-a032-b29022ce1bb6",
+    "status": "PUBLISHED",
+    "url": "https://diavgeia.gov.gr/luminapi/api/decisions/6Α0Γ46Ψ842-Γ6Μ",
+    "documentUrl": "https://diavgeia.gov.gr/doc/6Α0Γ46Ψ842-Γ6Μ",
+    "documentChecksum": null,
+    "attachments": [],
+    "warnings": null,
+    "correctedVersionId": null
+}

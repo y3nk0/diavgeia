@@ -1,0 +1,55 @@
+{
+    "protocolNumber": "37414/2021",
+    "subject": "Χρηματικό Ένταλμα 5431/2021",
+    "issueDate": 1618531200000,
+    "organizationId": "99206920",
+    "signerIds": [
+        "100061908"
+    ],
+    "unitIds": [
+        "74045"
+    ],
+    "decisionTypeId": "Β.2.1",
+    "thematicCategoryIds": [
+        "64",
+        "36"
+    ],
+    "extraFieldValues": {
+        "org": {
+            "afm": "998219694",
+            "afmType": "EL",
+            "afmCountry": "EL",
+            "name": "ΕΠΙΤΡΟΠΗ ΕΡΕΥΝΩΝ ΠΑΝΕΠΙΣΤΗΜΙΟΥ ΠΑΤΡΩΝ"
+        },
+        "sponsor": [
+            {
+                "sponsorAFMName": {
+                    "afm": null,
+                    "afmType": null,
+                    "afmCountry": null,
+                    "name": "ΠΑΛΗΑΤΣΑΣ ΔΗΜΗΤΡΙΟΣ ΑΘΑ."
+                },
+                "expenseAmount": {
+                    "amount": 637.23,
+                    "currency": "EUR"
+                },
+                "cpv": null
+            }
+        ],
+        "relatedAnalipsiYpoxreosis": null,
+        "relatedDecisions": null,
+        "documentType": "ΠΡΑΞΗ"
+    },
+    "privateData": true,
+    "ada": "6Α0Δ469Β7Θ-570",
+    "publishTimestamp": 1618834930940,
+    "submissionTimestamp": 1618834930940,
+    "versionId": "c6dd1c81-9bb8-446b-8681-5b6008152107",
+    "status": "PUBLISHED",
+    "url": "https://diavgeia.gov.gr/luminapi/api/decisions/6Α0Δ469Β7Θ-570",
+    "documentUrl": "",
+    "documentChecksum": null,
+    "attachments": [],
+    "warnings": null,
+    "correctedVersionId": null
+}

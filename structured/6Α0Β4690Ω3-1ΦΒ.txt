@@ -1,0 +1,35 @@
+{
+    "protocolNumber": "21250",
+    "subject": "Ανάθεση Προμήθειας αυξητικών παραγόντων με αυτόλογη θρομβίνη για την κάλυψη άμεσων αναγκών της Καρδιοχειρουργικής Πανεπιστημιακής Κλινικής κατά τα προβλεπόμενα στο άρθρο 118 του Ν. 4412/16",
+    "issueDate": 1622073600000,
+    "organizationId": "99221985",
+    "signerIds": [
+        "100056262"
+    ],
+    "unitIds": [
+        "76285"
+    ],
+    "decisionTypeId": "2.4.7.1",
+    "thematicCategoryIds": [
+        "10007"
+    ],
+    "extraFieldValues": {
+        "kanonistikipraxitype": null,
+        "kanonistikiPraxiPublishMedium": null,
+        "fek": null,
+        "relatedDecisions": [],
+        "documentType": "ΠΡΑΞΗ"
+    },
+    "privateData": false,
+    "ada": "6Α0Β4690Ω3-1ΦΒ",
+    "publishTimestamp": 1622110546587,
+    "submissionTimestamp": 1622110546587,
+    "versionId": "264ed316-0fd9-413c-8808-af2155227c59",
+    "status": "PUBLISHED",
+    "url": "https://diavgeia.gov.gr/luminapi/api/decisions/6Α0Β4690Ω3-1ΦΒ",
+    "documentUrl": "",
+    "documentChecksum": null,
+    "attachments": [],
+    "warnings": null,
+    "correctedVersionId": null
+}

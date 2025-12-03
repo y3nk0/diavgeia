@@ -1,0 +1,36 @@
+{
+    "protocolNumber": "182/2021 ΑΠΟΦΑΣΗ ΟΙΚΟΝΟΜΙΚΗΣ ΕΠΙΤΡΟΠΗΣ",
+    "subject": "182/2021 ΑΠΟΦΑΣΗ ΟΙΚΟΝΟΜΙΚΗΣ ΕΠΙΤΡΟΠΗΣ \"Λήψη απόφασης για την αποδοχή & κατανομή ποσού 59.880,00 € από πιστώσεις του ΥΠΕΣ για την κάλυψη δαπάνης μισθοδοσίας προσωπικού καθαριότητας, με σχέση εργασίας ιδιωτικού δικαίου ορισμένου χρόνου στις σχολικές μονάδες της Χώρας.\"",
+    "issueDate": 1624924800000,
+    "organizationId": "6230",
+    "signerIds": [
+        "100048683"
+    ],
+    "unitIds": [
+        "100031607"
+    ],
+    "decisionTypeId": "Α.2",
+    "thematicCategoryIds": [
+        "24"
+    ],
+    "extraFieldValues": {
+        "fek": {},
+        "kanonistikipraxiaa": null,
+        "kanonistikipraxitype": null,
+        "co_competent": null,
+        "relatedDecisions": [],
+        "documentType": "ΠΡΑΞΗ"
+    },
+    "privateData": false,
+    "ada": "6Α0ΒΩΞ9-0ΑΝ",
+    "publishTimestamp": 1625039249921,
+    "submissionTimestamp": 1625039249921,
+    "versionId": "2b61ea6f-e442-41f8-a995-d9e7f8e52323",
+    "status": "PUBLISHED",
+    "url": "https://diavgeia.gov.gr/luminapi/api/decisions/6Α0ΒΩΞ9-0ΑΝ",
+    "documentUrl": "",
+    "documentChecksum": null,
+    "attachments": [],
+    "warnings": null,
+    "correctedVersionId": null
+}
